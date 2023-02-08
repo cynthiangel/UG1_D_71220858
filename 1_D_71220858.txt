@@ -1,0 +1,22 @@
+#Test Case 1:
+a = str(input("Harga Barang : "))
+b = str(input("Apakah anda membei barang lagi?[yes/no] : "))
+c = str(input("Harga Barang : "))
+d = str(input("Apakah anda membei barang lagi?[yes/no] :"))
+print ("TOTAL BELANJA : ")
+
+#Test Case 2:
+a = str(input("Harga Barang : "))
+b = str(input("Apakah anda membei barang lagi?[yes/no] : "))
+c = str(input("Harga Barang : "))
+d = str(input("Apakah anda membei barang lagi?[yes/no] : "))
+e = str(input("Harga Barang : "))
+f = str(input("Apakah anda membei barang lagi?[yes/no] : "))
+print ("TOTAL BELANJA : ")
+
+#Test Case 2:
+a = str(input("Harga Barang : "))
+b = str(input("Apakah anda membei barang lagi?[yes/no] : "))
+c = str(input("Harga Barang : "))
+d = str(input("Apakah anda membei barang lagi?[yes/no] : "))
+print ("INVALID")

@@ -1,0 +1,8 @@
+print("--------Nilai ke 1--------")
+harian =("Nilai Harian : ")
+UTS = ("Nilai UTS : ")
+UAS = ("Nilai UAS : ")
+
+Harian = harian*20/100
+UTS = UTS*30/100
+UAS = UAS*
